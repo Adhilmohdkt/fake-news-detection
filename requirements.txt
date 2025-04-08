@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+scikit-learn
+xgboost
+transformers
+torch
+beautifulsoup4
+nltk
